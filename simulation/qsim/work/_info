@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Cvartus\Projects\Lab4_trigger\simulation\qsim
+vcustom_reg
+Z1 I9ahRi>Wl4<hm`^Y4FMX]J1
+Z2 V=j3cLa7Ek7jdQY_cNkCNT1
+Z3 dE:\Cvartus\Projects\Lab4_trigger\simulation\qsim
+Z4 w1652184904
+Z5 8custom_trigger.vo
+Z6 Fcustom_trigger.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|custom_trigger.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 9OmUYkOG?Z6[K:cHG7[HE0
+!s85 0
+Z11 !s108 1652184904.431000
+Z12 !s107 custom_trigger.vo|
+!s101 -O0
+vcustom_reg_vlg_check_tst
+!i10b 1
+Z13 !s100 4Lf38WRoR<oM_[F6dz1E@2
+Z14 I]kX`h<[PY;Wh0ZIKR16HN2
+Z15 VYIG6oO=mbjnC`]HDSL<UD1
+R3
+Z16 w1652184903
+Z17 8custom_trigger.vt
+Z18 Fcustom_trigger.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z19 !s108 1652184904.478000
+Z20 !s107 custom_trigger.vt|
+Z21 !s90 -work|work|custom_trigger.vt|
+!s101 -O0
+R9
+vcustom_reg_vlg_sample_tst
+!i10b 1
+Z22 !s100 XL>Q081R46`TfE>jVOo?a3
+Z23 IaVnanJSbaImJnK;]aah`b1
+Z24 VnzfJBlHB6[A>`^<7ZhDKG2
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vcustom_reg_vlg_vec_tst
+!i10b 1
+Z25 !s100 0S1QTDkC<C35^MI8VHQIN1
+Z26 IPT?9>^kS]Gg9Rb]@3kGm53
+Z27 VDlNN3gSA=azFQIL0`O9k10
+R3
+R16
+R17
+R18
+Z28 L0 1041
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vcustom_trigger
+Z29 ICd9zMPNRAG0`@@mP=9LV_3
+Z30 VJj^7=bnZ@X?>D8]SaZ]MP3
+R3
+Z31 w1652128688
+R5
+R6
+L0 31
+R7
+r1
+31
+R9
+Z32 !s100 L^jhhbz^4@7fE_EUMC4T^0
+Z33 !s108 1652128689.215000
+R12
+R8
+!i10b 1
+!s85 0
+!s101 -O0
+vcustom_trigger_vlg_check_tst
+Z34 IOHMn_b<17m6N>LFM2R]BR2
+Z35 V?deY2bnda<B47S_YX[ZTV1
+R3
+Z36 w1652128687
+R17
+R18
+L0 59
+R7
+r1
+31
+Z37 !s108 1652128689.271000
+Z38 !s107 custom_trigger.vt|
+R21
+R9
+Z39 !s100 e9F3VlL??KiUBWWii<BnD3
+!i10b 1
+!s85 0
+!s101 -O0
+vcustom_trigger_vlg_sample_tst
+Z40 I0gd:BPDej`6JI6ka77k=42
+Z41 V`Nc]1O0J=J?C^JdGbohcm3
+R3
+R36
+R17
+R18
+L0 29
+R7
+r1
+31
+R37
+R38
+R21
+R9
+Z42 !s100 Z:9lUDMmO62Q0_d5XU`9>3
+!i10b 1
+!s85 0
+!s101 -O0
+vcustom_trigger_vlg_vec_tst
+Z43 IN4FWglZ`5KY5GoZGgjQUN2
+Z44 Vl[6d27kIDl^iBZNX=^z[L1
+R3
+R36
+R17
+R18
+Z45 L0 216
+R7
+r1
+31
+R37
+R38
+R21
+R9
+Z46 !s100 a40QIU8ObzAm>Ak36onQE3
+!i10b 1
+!s85 0
+!s101 -O0
